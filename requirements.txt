@@ -1,5 +1,8 @@
 flask==2.3.3
-tensorflow-cpu==2.15.0
+tensorflow-cpu==2.10.0
 numpy==1.23.5
 opencv-python==4.8.0.76
 werkzeug==2.3.8
+onnxruntime==1.16.0  # Lightweight ML runtime
+pillow==10.1.0
+
